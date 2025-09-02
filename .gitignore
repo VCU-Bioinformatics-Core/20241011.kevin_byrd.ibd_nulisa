@@ -3,3 +3,4 @@ results/
 *.ipynb_checkpoints*
 git.sh
 20241011.Byrd_Lab.IBD_NuLisa.code-workspace
+.env
